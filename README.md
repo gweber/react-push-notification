@@ -5,6 +5,8 @@
 Easy, Type safe & Lightweight push notification library for React.js.
 Writtin in TypeScript & compiled to JavaScript for robust code.
 
+forked to work with reactjs 17.0++
+
 In app notification system, as well as web native Notification support.
 
 ![](https://i.imgur.com/SorfHNa.gif)
